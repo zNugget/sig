@@ -7,4 +7,4 @@
 
 ipconfig /all
 netstat
-pause >nobreak >null
+pause >nobreak >nul
