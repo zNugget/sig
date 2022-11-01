@@ -1,0 +1,4 @@
+@echo off
+title This is a sig installation test.
+echo Test completed.
+pause >nul
